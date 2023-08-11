@@ -1,0 +1,1 @@
+# A-Digital-signal-type-sensor
